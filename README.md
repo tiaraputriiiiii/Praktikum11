@@ -20,7 +20,7 @@ kecuali pernyataan, tetapi jika dibiarkan, mereka akan menghentikan program dan 
 - Berikut adalah fungsi fungsi yang mengubah suhu dari derajat Kelvin menjadi derajat Fahrenheit.Karena nol derajat Kelvin dingin, fungsi fungsi menyimpannya jika melihat negatif negatif suhu.
 - Ketika kode di bawah dijalankan, menghasilkan hasil sebagai berikut:
 
-![2022-12-15](https://user-images.githubusercontent.com/115775237/208674042-23207771-24d8-47a6-8a5f-ea6b93ad4872.png)
+![2022-12-15 (2)](https://user-images.githubusercontent.com/115775237/208674977-20b522d1-6d82-4820-a801-44f2f9e76ac6.png)
 
 ### Menangani Pengecualian
 Jika Anda memiliki beberapa kode mencurigakan yang mungkin mengeluarkan pengecualian, Anda dapat mempertahankan program Anda letakkan kode yang mencurigakan di *try: blok. Setelah coba: blok, sertakan pernyataan sertakan **except:* statemen, diikuti oleh blok kode yang menangani masalah seanggun mungkin.
@@ -28,12 +28,12 @@ Jika Anda memiliki beberapa kode mencurigakan yang mungkin mengeluarkan pengecua
 - Contoh-contoh ini membuka file, menulis konten file, dan keluar dengan aman karena ada tidak masalah
 - Ketika kode di bawah dijalankan, menghasilkan hasil sebagai berikut:
 
-![2022-12-15 (1)](https://user-images.githubusercontent.com/115775237/208674208-213a2cd7-c000-42b4-915f-63bc466d6625.png)
+![2022-12-15 (1)](https://user-images.githubusercontent.com/115775237/208675063-662c48a1-0ea3-4947-9883-bdc1b01f675e.png)
 
 - Contoh ini mencoba membuka file yang Anda tidak memiliki izin menulis, sehingga membuat file pengecualian
 - Ketika kode di bawah dijalankan, menghasilkan hasil sebagai berikut:
 
-![2022-12-15 (2)](https://user-images.githubusercontent.com/115775237/208674287-76e03d97-7749-4a7f-8c15-c63967e4d4b1.png)
+![2022-12-15](https://user-images.githubusercontent.com/115775237/208675359-7f38e518-9bcb-40d1-a3ab-4e72c3dc9c15.png)
 
 ### Fasal kecuali tanpa Pengecualian
 - Anda juga dapat menggunakan pernyataan exception tanpa exception yang didefinisikan sebagai berikut:
