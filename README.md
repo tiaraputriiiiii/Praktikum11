@@ -79,7 +79,7 @@ Ketika exception dilempar ke dalam blok try, eksekusi segera dilanjutkan ke akhi
 #### Contoh
 - Pengecualian dapat berupa string, kelas, atau objek. Sebagian besar pengecualian adalah pengecualian dari inti Python menimbulkan adalah kelas, dengan argumen=argumen yang merupakan turunan dari kelas. Mendefinisikan pengecualian barucukup mudah dan dapat dilakukan sebagai berikut:
 
-![2022-12-20 (1)](https://user-images.githubusercontent.com/115775237/208674560-a3d102c7-5e32-4e3b-8946-04dbd0b3264b.png)
+![2022-12-20 (4)](https://user-images.githubusercontent.com/115775237/208676339-5635fa86-f03e-4b89-92ad-95aa52394af9.png)
 
 ### Pengecualian yang Ditetapkan Pengguna
 - Python juga memungkinkan Anda membuat pengecualian sendiri dengan menurunkan kelas-kelas dari yang standar pengecualian bawaan.
