@@ -63,17 +63,22 @@ If there is no exception then execute this block.
 
 ### Klausa coba-akhirnya
 #### Contoh
-- Contoh yang sama dapat ditulis lebih bersih sebagai berikut:
+
+- Jika Anda tidak memiliki izin untuk membuka file dalam mode tulis yang dapat ditulis, maka ini akan menghasilkan hasil berikut:
 
 ![2022-12-15 (3)](https://user-images.githubusercontent.com/115775237/208674374-65a8f72a-8594-408c-8dce-35a16a27ad97.png)
+
+- Contoh yang sama dapat ditulis lebih bersih sebagai berikut:
+
+![2022-12-15 (4)](https://user-images.githubusercontent.com/115775237/208674449-8d027ade-8c31-4475-a167-c69524411ce3.png)
 
 Ketika exception dilempar ke dalam blok try, eksekusi segera dilanjutkan ke akhir memblok. Setelah semua pernyataan di blok akhirnya dieksekusi, pengecualian dimunculkan lagi dan ditangani dalam pernyataan kecuali jika ada di lapisan berikutnya yang lebih tinggi dari percobaan-kecuali penyataan.
 ### Argumen Pengecualian
 #### Contoh
 - Berikut adalah contoh untuk satu pengecualian
 - Ketika kode di bawah dijalankan, menghasilkan hasil sebagai berikut:
-
-![2022-12-15 (4)](https://user-images.githubusercontent.com/115775237/208674449-8d027ade-8c31-4475-a167-c69524411ce3.png)
+- 
+![2022-12-20 (1)](https://user-images.githubusercontent.com/115775237/208677602-65c8761b-8395-421a-8352-b5ab89b15e61.png)
 
 ### Melempar Pengecualian
 #### Contoh
